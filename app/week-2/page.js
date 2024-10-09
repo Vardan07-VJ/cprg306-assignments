@@ -4,7 +4,7 @@ export default function StudentInfo() {
   return (
     <main>
       <h1>Student Information</h1>
-      <p>Name: Bhavneet</p>
+      <p>Name: Vardan</p>
       <p>
         GitHub Repository: 
         <Link href="https://github.com/Vardan07-VJ/cprg306-assignments" passHref>
