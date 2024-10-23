@@ -37,6 +37,22 @@ export default function Home() {
               Week 4 Assignment: Quantity Increment and Decrement
             </a>
           </li>
+          <li className="mt-2">
+            <a
+              href="/week-5"
+              className="text-blue-600 hover:underline"
+            >
+              Week 5 Assignment: Data Fetching in Next.js
+            </a>
+          </li>
+          <li className="mt-2">
+            <a
+              href="/week-6"
+              className="text-blue-600 hover:underline"
+            >
+              Week 6 Assignment: Shopping List with Sorting and Grouping
+            </a>
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
